@@ -1,4 +1,4 @@
-![logo](https://github.com/NISCHAYJAISWAL2/Nischay-Jaiswal/blob/main/Nischay%20Jaiswal%20(1).png)
+![logo](https://github.com/Nischay144/Nischay144/blob/main/Nischay%20Jaiswal%20(1).png)
 <h1 align="center">Hi 👋, I'm Nischay Jaiswal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
