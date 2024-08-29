@@ -16,14 +16,14 @@
 
 - 📫 How to reach me **nischayjaiswal2@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/nischay-jaiswal-35a1682b6](www.linkedin.com/in/nischay-jaiswal-35a1682b6)
+- 📄 Know about my experiences [www.linkedin.com/in/nischayjaiswal144](www.linkedin.com/in/nischayjaiswal144)
 
 - ⚡ Fun fact **I love Gadgets📱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nischay2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nischay2004" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nischay jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nischay jaiswal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nischayjaiswal144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nischayjaiswal144" height="30" width="40" /></a>
 <a href="https://fb.com/nischayjaiswal144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nischayjaiswal144" height="30" width="40" /></a>
 <a href="https://instagram.com/nischay_jaiswal_144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nischay_jaiswal_144" height="30" width="40" /></a>
 </p>
