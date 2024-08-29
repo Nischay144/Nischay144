@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **nischayjaiswal2@gmail.com**
 
-- 📄 Know about my experiences (https://www.linkedin.com/in/nischayjaiswal144/)
+- 📄 Know about my experiences https://www.linkedin.com/in/nischayjaiswal144/
 
 - ⚡ Fun fact **I love Gadgets📱**
 
